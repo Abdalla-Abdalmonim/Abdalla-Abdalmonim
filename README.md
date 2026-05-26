@@ -21,3 +21,9 @@
 📫 **للتواصل معي:**
 - [يسعدني تواصلك معي عبر حسابي على فيسبوك 💙](https://www.facebook.com/share/1UaRLyHxnW/)
 -
+## 📊 إحصائيات نشاطي
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdalla-Abdalmonim&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="إحصائيات عبد الله" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Abdalmonim&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="أكثر اللغات استخداماً" />
+</div>
